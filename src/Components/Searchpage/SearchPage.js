@@ -2,7 +2,7 @@ import { Button } from '@material-ui/core'
 import React from 'react'
 import Cardssearch from "../CardsSearch/Cardssearch";
 import "./searchpage.css"
-import HouseIcon from '@material-ui/icons/House';
+// import HouseIcon from '@material-ui/icons/House';
 
 
 export default function SearchPage() {
@@ -15,7 +15,7 @@ export default function SearchPage() {
 
 
                 <p>62 stays . 26 august to 30 . 2 guest</p>
-                <h1>STAYS NEARBY 🏡</h1>
+                <h1>STAYS NEARBY</h1>
 
                 <div className="tags">
                     <Button variant="outlined">
