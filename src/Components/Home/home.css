@@ -1,0 +1,6 @@
+.home__section{
+    display: flex;
+    padding-top: 100px;
+    overflow: hidden;
+    overflow-y: hidden;
+}
